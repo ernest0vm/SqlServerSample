@@ -1,0 +1,7 @@
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.exe.config
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.pdb
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.csprojAssemblyReference.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.pdb
